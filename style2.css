@@ -1,0 +1,59 @@
+h1{
+font-family: "MAK";
+font-size: 180%;
+font-style: normal;
+
+position: absolute;
+width: 137px;
+height: 42px;
+left: 896px;
+top: 30px;
+
+color: #000000;
+}
+
+h2{
+font-family: "MAK";
+font-size: 180%;
+font-style: normal;
+
+position: absolute;
+width: 137px;
+height: 42px;
+left: 1133px;
+top: 30px;
+
+color: #000000;
+}
+
+.logo{
+margin: 0 0 0 100px;
+top: 100px;
+}
+
+.btn{
+background: #543497;
+color: #ffffff;
+}
+
+h6{
+src: url("font/Montserrat-Bold.ttf") format("truetype"); 
+font-size: 100%;
+font-style: normal;
+}
+
+@font-face {
+font-family: "MAK";  
+
+font-weight: normal;
+font-style: normal; 
+ }
+
+
+.yes {
+background: rgb(200, 200, 200);
+}
+
+.h6 {
+background: rgb(200, 200, 200);
+}
